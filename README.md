@@ -1,4 +1,4 @@
-# Machine Learning Training — EY Clevory
+# Machine Learning Training 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -10,6 +10,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-visualization-3F4F75?style=flat&logo=plotly&logoColor=white)
 
 Formation pratique au Machine Learning couvrant les principaux paradigmes d'apprentissage supervisé et non supervisé, à travers trois projets complets sur des données réelles.
+
+![Machine Learning](./ml.png)
 
 ---
 
